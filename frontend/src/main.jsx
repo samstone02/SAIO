@@ -11,6 +11,7 @@ import './style/Flashcards.css'
 import './style/App.css'
 import './style/TodoApp.css'
 import './style/Login.css'
+import './style/indexPage.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <App/>

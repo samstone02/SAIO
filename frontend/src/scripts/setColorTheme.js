@@ -1,4 +1,6 @@
 export default function setSiteColorTheme(theme) {
+    console.log("Setting site theme!");
+
     if (!theme) theme = "standard light";
     
     /* DEFINE THEMES HERE! */
@@ -8,7 +10,7 @@ export default function setSiteColorTheme(theme) {
             document.documentElement.style.setProperty('--PrimaryColor', '#FFFFFF')
             document.documentElement.style.setProperty('--SecondaryColor', '#DDDDDD')
             document.documentElement.style.setProperty('--TertiaryColor', '#BBBBBB')
-            document.documentElement.style.setProperty('--FourthColor', '#BBBBBB')
+            document.documentElement.style.setProperty('--FourthColor', '#777777')
             document.documentElement.style.setProperty('--FifthColor', '#BBBBBB')
             document.documentElement.style.setProperty('--SixthColor', '#f5763b')
             document.documentElement.style.setProperty('--SameShadeColor', '#ffffff')

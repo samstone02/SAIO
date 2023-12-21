@@ -1,5 +1,5 @@
-import ThemeButton from "../components/ThemeButton";
-import Sidebar from "../components/sidebar/Sidebar";
+import ThemeButton from "../../components/ThemeButton";
+import Sidebar from "../../components/sidebar/Sidebar";
 import { Outlet } from "react-router-dom";
 
 export default function AppLayout(props) {

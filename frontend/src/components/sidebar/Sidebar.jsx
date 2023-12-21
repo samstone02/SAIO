@@ -44,7 +44,7 @@ export default function Sidebar() {
                 >
                     <IoMdColorPalette className="oppositeShadeColor w-16 h-16"/>
                 </NavTab>
-                <div className="x-inactive-navtab secondaryBackground w-full h-full">
+                <div className="x-background-sidebar secondaryBackground w-full h-full">
                     {/* Filler div */}
                 </div>
             </nav>
