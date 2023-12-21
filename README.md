@@ -1,6 +1,6 @@
 # SAIO - Student’s All-In-One
 
-The only app you need for success in school! With note taking, flashcards, calendar, to-do lists, and more, you can do it all with **SAIO**!
+The only app you need for success in school! With note taking, flashcards, calendar, to-do lists, and more, you can do it all with **SAIO**! This project was made for COSC 489 (Software Engineering Project).
 
 ## Setup
 
